@@ -1,2 +1,2 @@
 # groovy_dsl
-Internal DSL using groovy
+Internal DSL implementation using Groovy
